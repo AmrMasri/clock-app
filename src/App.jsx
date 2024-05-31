@@ -1,6 +1,6 @@
 import DigitalClock from "./DigitalClock";
 
 function App (){
-  return(<></>);
+  return(<DigitalClock/>);
 }
 export default App;
